@@ -1,0 +1,22 @@
+{
+  "name": "project-generator",
+  "version": "1.0.0",
+  "description": "Generate a new project depending on which stack are you trying to use",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joannerpena/project-generator.git"
+  },
+  "author": "Joanner Pena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joannerpena/project-generator/issues"
+  },
+  "homepage": "https://github.com/joannerpena/project-generator#readme",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
+}
